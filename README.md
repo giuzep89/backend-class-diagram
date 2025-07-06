@@ -8,7 +8,14 @@ User Stories
 
 Functionele eisen
 
-- De gebruiker moet als eigenaar ingelogd zijn om productinformatie te kunnen beheren.
-- De gebruiker moet nieuwe producten kunnen toevoegen en verwijderen.
-- De gebruiker moet productinformatie kunnen aanpassen.
-- De gebruiker moet als 
+- De gebruiker moet als eigenaar of personneelslid ingelogd zijn om acties te kunnen voeren.
+- De eigenaar moet een personneelslid met beperkte rechten kunnen toevoegen aan de applicatie.
+- De eigenaar moet nieuwe producten kunnen toevoegen.
+- De eigenaar moet producten kunnen verwijderen.
+- De eigenaar kan een product aan een bestaande categorie kunnen toewijzen.
+- De eigenaar/personneelslid moet productinformatie kunnen aanpassen.
+- De eigenaar/personneelslid moet de voorraad de kunnen beheren.
+- De eigenaar/personneelslid moet de hoeveelheid verkochte producten kunnen inzien.
+- De eigenaar/personneelslid moet de verkoopdatum kunnen bekijken.
+- De gebruiker moet kunnen zien of een product gecombineerd kan worden met een of meer andere producten.
+
